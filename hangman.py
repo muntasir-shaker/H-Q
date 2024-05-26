@@ -53,7 +53,7 @@ HANGMANPICS = ['''
 
 
 #random word
-random_word=["man","girl","women","animal"]
+random_word=["man","girl","women","boy"]
 
 
 #chose one word
